@@ -9,7 +9,7 @@ Simple progress bar functionality
 
 where `#load-progress` is id of progress bar inner element, for ex:
 
-`<div class='progress-outer'>
+``<div class='progress-outer'>
   <div id="load-progress">
   </div>
-</div>`
+</div>``
